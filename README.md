@@ -8,4 +8,4 @@ You can select wich neuron will be used:
 
 You can manualy give the algorithm different input / output to learn.
 
-You can ***name*** and ***save*** each learned table.
+You can ***name*** and ***save*** each learned table that doesn't already exist.

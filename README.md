@@ -1,6 +1,8 @@
 # AI Neural Network Machine Learning
 ### Python program that can learn for data using different neuron structure ( work in progress )
 
+Run "RunNeurone.py".
+
 You can select wich neuron will be used:
   - **Heavyside**
   - **ReLu**

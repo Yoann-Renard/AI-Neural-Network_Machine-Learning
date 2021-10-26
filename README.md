@@ -6,6 +6,7 @@ You can select wich neuron will be used:
   - **ReLu**
   - **Sigmoide**
 
+
 You can manualy give the algorithm different input / output to learn.
 
 You can ***name*** and ***save*** each learned table.

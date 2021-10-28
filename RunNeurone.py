@@ -193,6 +193,5 @@ def learn_input_tables(type_neurone):
         os.system("cls")
         learn_input_tables(type_neurone)
 
-
 print("Bienvenue sur le test d'IA python\n")
 interface()

@@ -1,5 +1,5 @@
 # AI Neural Network Machine Learning
-### Python program that can learn for data using different neuron structure ( work in progress )
+### Python program that can learn from data using different neuron structures. ( work in progress )
 
 Run "RunNeurone.py".
 
